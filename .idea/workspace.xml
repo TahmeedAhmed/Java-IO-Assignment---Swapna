@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29900ea5-f7f3-4fee-a348-51d032423404" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFajhU5DlZ61xe1LUGkMVT7if3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JDBCAssignment" />
+  </component>
+  <component name="RunManager" selected="Application.SortFile">
+    <configuration name="FindLongestWordInTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindLongestWordInTextFile" />
+      <module name="Java IO Assignment - Swapna" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortFile" />
+      <module name="Java IO Assignment - Swapna" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreTextFileContentIntoArrayLineByLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StoreTextFileContentIntoArrayLineByLine" />
+      <module name="Java IO Assignment - Swapna" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortFile" />
+        <item itemvalue="Application.StoreTextFileContentIntoArrayLineByLine" />
+        <item itemvalue="Application.FindLongestWordInTextFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29900ea5-f7f3-4fee-a348-51d032423404" name="Default Changelist" comment="" />
+      <created>1584437433012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584437433012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584437836619">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="417" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-252.1080.2560.1400@0.0.1280.680" timestamp="1584437836619" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1584525038520">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584525038520" />
+    <state width="1237" height="57" key="GridCell.Tab.0.bottom" timestamp="1584724887467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="62" key="GridCell.Tab.0.bottom/0.0.1280.680/-252.1080.2560.1400@0.0.1280.680" timestamp="1584439519483" />
+    <state width="1237" height="57" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584724887467" />
+    <state width="1237" height="57" key="GridCell.Tab.0.center" timestamp="1584724887467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="62" key="GridCell.Tab.0.center/0.0.1280.680/-252.1080.2560.1400@0.0.1280.680" timestamp="1584439519483" />
+    <state width="1237" height="57" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584724887467" />
+    <state width="1237" height="57" key="GridCell.Tab.0.left" timestamp="1584724887467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="62" key="GridCell.Tab.0.left/0.0.1280.680/-252.1080.2560.1400@0.0.1280.680" timestamp="1584439519483" />
+    <state width="1237" height="57" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584724887467" />
+    <state width="1237" height="57" key="GridCell.Tab.0.right" timestamp="1584724887467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="62" key="GridCell.Tab.0.right/0.0.1280.680/-252.1080.2560.1400@0.0.1280.680" timestamp="1584439519483" />
+    <state width="1237" height="57" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584724887467" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1584723081192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584723081192" />
+    <state x="91" y="0" key="new project wizard" timestamp="1584438866384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680/-252.1080.2560.1400@0.0.1280.680" timestamp="1584438866384" />
+  </component>
+</project>
